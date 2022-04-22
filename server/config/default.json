@@ -1,0 +1,10 @@
+//dev DB:
+// {
+//   "mongoURI": "mongodb+srv://paradoxminerva:unicorn2022@cluster0.h9amq.mongodb.net/mvp1?retryWrites=true&w=majority"
+// }
+
+//test DB:
+{
+  "mongoURI": "mongodb+srv://Tariq:abcd1234@cluster0.dfxef.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
+
